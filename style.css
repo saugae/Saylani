@@ -18,6 +18,9 @@ body{
     line-height: 1.7;
     padding: 10px;
 }
+.cl2 {
+    color: white;
+}
 
 li{
     display: inline-block;
